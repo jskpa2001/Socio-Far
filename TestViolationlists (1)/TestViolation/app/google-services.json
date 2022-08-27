@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "172582941479",
+    "firebase_url": "https://chimniche.firebaseio.com",
+    "project_id": "chimniche",
+    "storage_bucket": "chimniche.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172582941479:android:0fdd34fd185ab53b22af02",
+        "android_client_info": {
+          "package_name": "com.terabyte.techexpogps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172582941479-v7vdvd63og0kk0v9m6kp79k8577dnjgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.terabyte.techexpogps",
+            "certificate_hash": "e275e4861014773b4b57f42d8e73e5c37c91bee1"
+          }
+        },
+        {
+          "client_id": "172582941479-bu7tne1p3828ad5p55bau1ucvftpjjge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm0C7vM9feuZ9RQE1yqPqPsYlCkv2M450"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172582941479-bu7tne1p3828ad5p55bau1ucvftpjjge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

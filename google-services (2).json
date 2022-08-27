@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "614502029629",
+    "firebase_url": "https://iit-ke-launde.firebaseio.com",
+    "project_id": "iit-ke-launde",
+    "storage_bucket": "iit-ke-launde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614502029629:android:f9e34d27e8fedf55010d54",
+        "android_client_info": {
+          "package_name": "com.terabyte.techexpogps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614502029629-ad826a6rm69lv6j2r3l90mm74hjqgo2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhmWkQTSpxoGjkCuX3EUOReFAhEmLkuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614502029629-ad826a6rm69lv6j2r3l90mm74hjqgo2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614502029629:android:158bae5f79931ad5010d54",
+        "android_client_info": {
+          "package_name": "com.terabyte.testviolation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614502029629-ad826a6rm69lv6j2r3l90mm74hjqgo2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhmWkQTSpxoGjkCuX3EUOReFAhEmLkuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614502029629-ad826a6rm69lv6j2r3l90mm74hjqgo2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
